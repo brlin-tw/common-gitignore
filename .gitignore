@@ -30,6 +30,9 @@
 # https://docs.drone.io/
 !.drone.yml
 
+# Do track REUSE configuration files
+!.reuse
+
 # Don't track common backup filename extensions
 *~
 *.bk*
