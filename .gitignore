@@ -31,7 +31,7 @@
 !.drone.yml
 
 # Do track REUSE configuration files
-!.reuse
+!.reuse/
 
 # Don't track common backup filename extensions
 *~
