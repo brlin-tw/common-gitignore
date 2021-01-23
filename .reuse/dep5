@@ -8,3 +8,7 @@ Source: https://github.com/Lin-Buo-Ren/common-gitignore
 # Files: src/*
 # Copyright: $YEAR $NAME <$CONTACT>
 # License: ...
+
+Files: README.md
+Copyright: 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
+License: WTFPL
