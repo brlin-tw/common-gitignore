@@ -8,7 +8,7 @@
 # Copyright 2021 林博仁(Buo-ren, Lin) <Buo.Ren.Lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
 
-# Don't regular Unix hidden files
+# Don't track regular Unix hidden files
 .*
 
 # Do track Git configuration files
