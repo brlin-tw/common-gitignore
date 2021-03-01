@@ -41,7 +41,6 @@
 *.bak*
 *.backup*
 *.old*
-*.bk*
 *.orig*
 
 ## Don't track common archive files
