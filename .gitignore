@@ -37,9 +37,9 @@
 
 # Don't track common backup filename extensions
 *~
-*.bk*
 *.bak*
 *.backup*
+*.bk*
 *.old*
 *.orig*
 
@@ -58,15 +58,15 @@
 
 # Don't track common export formats from Markdown
 *.doc?
-*.pdf
 *.htm?
+*.pdf
 
 # Don't track common program output logs
+*.err
+*.error
 *.log
 *.out
 *.output
-*.err
-*.error
 
 # Don't track compiled Python code caches
 *.pyc
