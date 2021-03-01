@@ -51,7 +51,7 @@ repos:
   # Check shell scripts with ShellCheck
   # NOTE: ShellCheck must be available in the command search PATHs
   - repo: https://github.com/jumanjihouse/pre-commit-hooks
-    rev: 2.0.0
+    rev: 2.1.5
     hooks:
       - id: shellcheck
 
